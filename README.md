@@ -48,6 +48,12 @@ The goal of this repository is to:
 
 ---
 
+## Steps to open code on github
+- *Step 1* : click on the directory.
+- *Step 2* : click on the src file to open the codes file where you can see all the codes.
+
+---
+
 ## 🔗 Connect with Me
 
 - Found something interesting? Have suggestions or feedback? Feel free to open an issue or start a discussion in the repository!  
